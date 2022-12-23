@@ -1,0 +1,36 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+h1{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 15px 0;
+}
+select{
+    background-color: gainsboro;
+}
+button{
+    padding: 5px 23px;
+    background-color: gainsboro;
+    border: 1px solid grey;
+}
+body{
+  
+    background-color: aquamarine;
+}
+
+.container{
+     font-size: 17px;
+}
+label{
+   display: inline-block;
+   width: 170px;
+
+}
+
+
+
+
+
